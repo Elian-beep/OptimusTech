@@ -1,0 +1,66 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 5em;
+    background-color: var(--cor-branca);
+}
+
+.nav__left{
+    width: 45vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__logo{
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+.nav__logo span{
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--cor-azul_escuro);
+}
+
+.nav__links{
+    display: flex;
+}
+
+.nav-link{
+    list-style-type: none;
+}
+
+.nav-link a{
+    text-decoration: none;
+    font-weight: 500;
+    color: var(--cor-azul-cinzado);
+    margin-left: 1.8em;
+}
+
+.nav__registro{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.nav__btnEntrar{
+    background: transparent;
+    border: none;
+    font-weight: 500;
+    color: var(--cor-azul-cinzado);
+    /* font-size: 16px; */
+    padding: 1em;
+}
+
+.nav__btnCadastrar{
+    background-color: var(--cor-vermelho-escuro);
+    color: var(--cor-branca);
+    border: none;
+    font-weight: 500;
+    padding: .8em 1.8em;
+    width: 8em;
+    height: 3em;
+    border-radius: 8px;
+}
