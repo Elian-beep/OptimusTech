@@ -1,0 +1,28 @@
+.metricas{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4em;
+    background-color: var(--cor-branca);
+}
+
+.metricas__area{
+    width: 25vw;
+}
+
+.metricas__area-numeros{
+    font-weight: 600;
+    font-size: 60px;
+    color: var(--cor-vermelho-escuro);
+}
+
+.metricas__area-titulo{
+    color: var(--cor-azul-darkness);
+    font-weight: 500;
+    font-size: 18px;
+    margin: .7em 0;
+}
+
+.metricas__area-texto{
+    color: var(--cor-azul-cinzado);
+    width: 21vw;
+}
