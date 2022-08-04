@@ -1,0 +1,37 @@
+.vagas__ofertadas{
+    background-color: var(--cor-branca);
+    padding: 0 20em;
+}
+
+.vagas__ofertadas-categoria{
+    color: var(--cor-azul-darkness);
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 1.7em;
+}
+
+.vagas--card{
+    border: 1px solid #EAECF0;
+    width: 100%;
+    padding: 1em;
+    margin-bottom: 1.3em;
+    border-radius: 16px;
+}
+
+.vagas--card-titulo{
+    color: var(--cor-azul-darkness);
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 1.7em;
+}
+
+.vagas--card-descricao{
+    display: flex;
+    gap: 2em;
+}
+
+.vagas--card-descricao span{
+    color: var(--cor-azul-cinzado);
+    font-size: 16px;
+    font-weight: 500;
+}

@@ -2,6 +2,7 @@
 @import url(./header.css);
 @import url(./metricas.css);
 @import url(./vagasTop.css);
+@import url(./vagasBottom.css);
 
 :root{
     --fonte-principal: "inter";
