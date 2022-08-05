@@ -4,6 +4,7 @@
 @import url(./vagasTop.css);
 @import url(./vagasBottom.css);
 @import url(./colab.css);
+@import url(./footer.css);
 
 :root{
     --fonte-principal: "inter";
