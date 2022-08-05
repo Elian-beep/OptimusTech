@@ -3,6 +3,7 @@
 @import url(./metricas.css);
 @import url(./vagasTop.css);
 @import url(./vagasBottom.css);
+@import url(./colab.css);
 
 :root{
     --fonte-principal: "inter";
