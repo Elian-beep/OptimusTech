@@ -9,6 +9,7 @@ Seção de recrutamento de uma empresa fictícia
 | :rocket: URL         | https://optimus-tech-inky.vercel.app
 | :fire: Desafio     | Alura - 7DaysOfCode
 
+![](https://raw.githubusercontent.com/Elian-beep/assets-online/main/capa_Optimus_Tech.png#vitrinedev)
 ## Detalhes do projeto
 
 Projeto front end feito totalmente em CSS e HTML para finalização da formação de HTML e CSS em desafio ao 7DaysOfCode da plataforma de estudos Alura #7DaysOfCode
